@@ -2,7 +2,21 @@
 <a href="#" target="_blank">
   <img src="svg/congbang.svg" width="1200" alt="congbang-official" />
 </a>
+<style>
+  h2 {
+    font-size: 30px;
+  }
+</style>
+<div>
+<h2 align="center">💫 About Me 💫</h2>
+📑 I'm currently learning at International University - Vietnam National HCMC</br>
+🌱 I have specific knowledge of C, C++, and Java languages</br>
+🔥 I hope to work for a reputable company</br>
+⚡Ask me all your questions, I will reply as soon as I receive the message</br>
+😄 Fun fact: I am an optimist during the day but have quite negative thoughts at night
+</div>
 
+_____________________________________________________________________________________________
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -47,29 +61,32 @@
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
 
+
+-------------------------------------------------------------------------------------------------
+
+<h2 align="center">💻 Tech Stack 💻</h2></br>
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+</br>
+
+-------------------------------------------------------------------------------------------------
+<h2 align="center">📊 GitHub Statistics 📊</h2></
+
+
+[![](https://visitcount.itsvg.in/api?id=congbangitiu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=congbangitiu&theme=onedark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=congbangitiu&theme=onedark&hide_border=false"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congbangitiu&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+
+
+</p>
+_____________________________________________________________________________________________
+<h2 align="center">👽 Contact 👽</h2>
 <br>
 
-<h2 align="center">🔥 GitHub Statistics 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="Congbang">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <!-- <a href="#" title="Congbang">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a> -->
-</div>
-
-<br>
-
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
 <div align="center">
-  <!-- <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
-  </a> -->
   <a href="https://www.facebook.com/congbang.nguyenluan" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="congbang-facebook" />
   </a>
@@ -88,10 +105,8 @@
 </div>
 
 <br>
-
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
+_____________________________________________________________________________________________
+<h2 align="center">📑 Quote 📑</h2>
 <a href="#" target="_blank">
   <img src="svg/congbang-quotes.svg" width="846" height="150" alt="congbang-official" />
 </a>
-
