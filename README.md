@@ -2,18 +2,42 @@
 <a href="#" target="_blank">
   <img src="svg/congbang.svg" width="1200" alt="congbang-official" />
 </a>
-
+</br>
+</br>
 <div>
-<img align="right" width=200px height=200px alt="programmer gif" src="./gif/programmer3.gif" />
+<img class="gif_1" align="left" width=150px height=150px  alt="programmer gif" src="./gif/programmer3.gif" />
+<img class="gif_2" align="right" width=150px height=150px  alt="programmer gif" src="./gif/programmer2.gif" />
+<style>
+  .gif_1 {
+    margin-top: 5%;
+    margin-right: 5%;
+  }
+  .gif_2 {
+    margin-top: 5%;
+    margin-left: 5%;
+  }
+  h2 {
+    font-size: 30px;
+  }
+  .introduce {
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+  }
+</style>
 <h2 align="center">💫 About Me 💫</h2>
+<div class="introduce">
 📑 I'm currently learning at International University - Vietnam National HCMC</br>
 🌱 I have specific knowledge of C, C++, and Java languages</br>
 🔥 I hope to work for a reputable company</br>
 ⚡Ask me all your questions, I will reply as soon as I receive the message</br>
 😄 Fun fact: I am an optimist during the day but have quite negative thoughts at night
 </div>
+</div>
 
 <!-- _____________________________________________________________________________________________ -->
+</br>
+</br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -60,27 +84,32 @@
 
 
 <!-- ------------------------------------------------------------------------------------------------- -->
-
+</br>
+</br>
 <h2 align="center">💻 Tech Stack 💻</h2></br>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 </br>
 
 <!-- ------------------------------------------------------------------------------------------------- -->
+</br>
+</br>
 <h2 align="center">📊 GitHub Statistics 📊</h2></
 
 
 [![](https://visitcount.itsvg.in/api?id=congbangitiu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=congbangitiu&theme=onedark&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=congbangitiu&theme=onedark&hide_border=false"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=congbangitiu&theme=onedark&hide_border=false&include_all_commits=false&count_private=false"/> </br>
+  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=congbangitiu&theme=onedark&hide_border=false"/> </br>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congbangitiu&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
 
 </p>
 <!-- ____________________________________________________________________________________________________________________________ -->
 <!-- _________________________________________________________________________________________________________________________________________________ -->
+</br>
+</br>
 <h2 align="center">👽 Contact 👽</h2>
 <br>
 
@@ -102,9 +131,18 @@
   </a>
 </div>
 
-<br>
 <!-- _________________________________________________________________________________________________________________________________________________ -->
+</br>
+</br>
 <h2 align="center">📑 Quote 📑</h2>
+</br>
 <a href="#" target="_blank">
-  <img src="svg/congbang-quotes.svg" width="846" height="150" alt="congbang-official" />
+  <img class="quote" src="svg/congbang-quotes.svg" width="846" height="150" alt="congbang-official" />
 </a>
+<style>
+  .quote {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+  }
+</style>
