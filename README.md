@@ -5,8 +5,8 @@
 </br>
 </br>
 <div>
-<img class="gif_1" align="left" width=160px height=160px  alt="programmer gif" src="./gif/programmer3.gif" />
-<img class="gif_2" align="right" width=160px height=160px  alt="programmer gif" src="./gif/programmer2.gif" />
+<img class="gif_1" align="left" width=150px height=150px  alt="programmer gif" src="./gif/programmer3.gif" />
+<img class="gif_2" align="right" width=150px height=150px  alt="programmer gif" src="./gif/programmer2.gif" />
 <!-- <style>
   .gif_1 {
     margin-top: 5%;
@@ -25,7 +25,7 @@
     font-size: 16px;
   }
 </style> -->
-<h2 align="center">💫 About Me 💫</h2>
+<h2 align="center" style="font-size: 30px">💫 About Me 💫</h2>
 <div class="introduce">
 📑 I'm currently learning at International University - Vietnam National HCMC</br>
 🌱 I have specific knowledge of C, C++, and Java languages</br>
@@ -38,7 +38,7 @@
 <!-- _____________________________________________________________________________________________ -->
 </br>
 </br>
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center" style="font-size: 30px">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -87,7 +87,7 @@
 </br>
 </br>
 </br>
-<h2 align="center">💻 Tech Stack 💻</h2></br>
+<h2 align="center" style="font-size: 30px">💻 Tech Stack 💻</h2></br>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 </br>
@@ -95,7 +95,7 @@
 <!-- ------------------------------------------------------------------------------------------------- -->
 </br>
 </br>
-<h2 align="center">📊 GitHub Statistics 📊</h2></
+<h2 align="center" style="font-size: 30px">📊 GitHub Statistics 📊</h2></
 
 
 [![](https://visitcount.itsvg.in/api?id=congbangitiu&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -111,7 +111,7 @@
 <!-- _________________________________________________________________________________________________________________________________________________ -->
 </br>
 </br>
-<h2 align="center">👽 Contact 👽</h2>
+<h2 align="center" style="font-size: 30px">👽 Contact 👽</h2>
 <br>
 
 <div align="center">
@@ -135,7 +135,7 @@
 <!-- _________________________________________________________________________________________________________________________________________________ -->
 </br>
 </br>
-<h2 align="center">📑 Quote 📑</h2>
+<h2 align="center" style="font-size: 30px">📑 Quote 📑</h2>
 </br>
 <a href="#" target="_blank">
   <img class="quote" src="svg/congbang-quotes.svg" width="846" height="150" alt="congbang-official" />
