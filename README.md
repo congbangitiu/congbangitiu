@@ -7,7 +7,7 @@
 <div>
 <img class="gif_1" align="left" width=150px height=150px  alt="programmer gif" src="./gif/programmer3.gif" />
 <img class="gif_2" align="right" width=150px height=150px  alt="programmer gif" src="./gif/programmer2.gif" />
-<style>
+<!-- <style>
   .gif_1 {
     margin-top: 5%;
     margin-right: 5%;
@@ -24,7 +24,7 @@
     justify-content: center;
     font-size: 16px;
   }
-</style>
+</style> -->
 <h2 align="center">💫 About Me 💫</h2>
 <div class="introduce">
 📑 I'm currently learning at International University - Vietnam National HCMC</br>
@@ -139,10 +139,10 @@
 <a href="#" target="_blank">
   <img class="quote" src="svg/congbang-quotes.svg" width="846" height="150" alt="congbang-official" />
 </a>
-<style>
+<!-- <style>
   .quote {
     display: flex;
     justify-content: center;
     margin: auto;
   }
-</style>
+</style> -->
