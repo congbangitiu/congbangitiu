@@ -23,7 +23,7 @@
 				.quotes-vi {
 				font-size: 18px;
 				}
-				.trungquandev-signature {
+				.congbangdev-signature {
 				font-size: 16px;
 				}
 				
@@ -31,8 +31,8 @@
 
 			<div class="container">
         <div class="quotes-eng">"You were born to be yourself, not to be someone else's copy"</div>
-        <div class="quotes-vi">"Bạn được sinh ra để là chính bạn, không phải để trở thành bản sao của người khác"</div>
-        <div class="congbang-signature">- Mr.Fair -</div>
+        <!-- <div class="quotes-vi">"Bạn được sinh ra để là chính bạn, không phải để trở thành bản sao của người khác"</div> -->
+        <div class="congbang-signature">-- Mr.Fair --</div>
       </div>
 		</div>
 	</foreignObject>
