@@ -5,8 +5,8 @@
 </br>
 </br>
 <div>
-<img class="gif_1" align="left" width=150px height=150px  alt="programmer gif" src="./gif/programmer3.gif" />
-<img class="gif_2" align="right" width=150px height=150px  alt="programmer gif" src="./gif/programmer2.gif" />
+<img class="gif_1" align="left" width=140px height=140px  alt="programmer gif" src="./gif/programmer3.gif" />
+<img class="gif_2" align="right" width=140px height=140px  alt="programmer gif" src="./gif/programmer2.gif" />
 <!-- <style>
   .gif_1 {
     margin-top: 5%;
@@ -84,6 +84,7 @@
 
 
 <!-- ------------------------------------------------------------------------------------------------- -->
+</br>
 </br>
 </br>
 <h2 align="center">💻 Tech Stack 💻</h2></br>
