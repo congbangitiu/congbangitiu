@@ -5,8 +5,8 @@
 </br>
 </br>
 <div>
-<img style="margin-top: 20px" align="left" width=160px height=160px  alt="programmer gif" src="./gif/programmer3.gif" />
-<img style="margin-top: 25px" align="right" width=160px height=160px  alt="programmer gif" src="./gif/programmer2.gif" />
+<img style="margin-top: 6%" align="left" width=160px height=160px  alt="programmer gif" src="./gif/programmer3.gif" />
+<img style="margin-top: 7%" align="right" width=160px height=160px  alt="programmer gif" src="./gif/programmer2.gif" />
 <!-- <style>
   .gif_1 {
     margin-top: 5%;
