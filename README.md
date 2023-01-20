@@ -162,7 +162,7 @@
   <a href="https://www.youtube.com/channel/UC6Dgk42iP8aHcsLShgRkPJg" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="congbang-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/c%C3%B4ng-b%E1%BA%B1ng-mr-fair-78121622a/" target="blank">
+  <a href="https://www.linkedin.com/in/mrfair071102/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="congbang-linkedin" />
   </a>
   <a href="https://www.instagram.com/_mr.fair_/" target="blank">
