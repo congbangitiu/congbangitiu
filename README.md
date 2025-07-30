@@ -5,8 +5,8 @@
 </br>
 </br>
 <div>
-<img style="margin-top: 6%" align="left" width=160px height=160px  alt="programmer gif" src="./gif/programmer3.gif" />
-<img style="margin-top: 7%" align="right" width=160px height=160px  alt="programmer gif" src="./gif/programmer2.gif" />
+<img style="margin-top: 100px" align="left" width=160px height=160px  alt="programmer gif" src="./gif/programmer3.gif" />
+<img style="margin-top: 100px" align="right" width=160px height=160px  alt="programmer gif" src="./gif/programmer2.gif" />
 <!-- <style>
   .gif_1 {
     margin-top: 5%;
@@ -28,7 +28,7 @@
 <h2 align="center" style="font-size: 30px">💫 About Me 💫</h2>
 <div class="introduce">
 📑 I'm currently learning at International University - Vietnam National HCMC</br>
-🌱 I have specific knowledge of JS language and React library</br>
+🌱 I have specific knowledge of JavaScript language and React library</br>
 🔥 I hope to work for a reputable company</br>
 ⚡Ask me all your questions, I will reply as soon as I receive the message</br>
 😄 Fun fact: I am an optimist during the day but have quite negative thoughts at night
@@ -40,61 +40,59 @@
 </br>
 <h2 align="center" style="font-size: 30px">🛠 Technologies and Tools 🛠</h2>
 <br>
-<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=F7DF1E" alt="Java logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=#4479A1" alt="MySQL logo" title="MySQL" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=#4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Github logo" title="Github" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Github logo" title="Github" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=#181717" alt="Gitlab logo" title="Gitlab" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=#181717" alt="Gitlab logo" title="Gitlab" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Gitlab-282C34?logo=gitlab&logoColor=#181717" alt="git logo" title="git" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Gitlab-282C34?logo=gitlab&logoColor=#181717" alt="git logo" title="git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Visual Studio Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Visual Studio Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+<span><img src="https://img.shields.io/badge/IntelliJ IDEA-282C34?logo=intelliJ-idea&logoColor=#000000" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/IntelliJ IDEA-282C34?logo=intelliJ-idea&logoColor=#000000" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" /></span>
+<span><img src="https://img.shields.io/badge/PyCharm-282C34?logo=pycharm&logoColor=#000000" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/PyCharm-282C34?logo=pycharm&logoColor=#000000" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=#00C4CC" alt="Canva logo" title="Canva" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=#00C4CC" alt="Canva logo" title="Canva" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Google Colab-282C34?logo=google-colab&logoColor=#F9AB00" alt="Google Colab" title="Google Colab" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Google Colab-282C34?logo=google-colab&logoColor=#F9AB00" alt="Google Colab" title="Google Colab" height="30" /></span>
 &nbsp;
 <span>
-<img src="https://img.shields.io/badge/Gemini%20API-282C34?logo=google&logoColor=4285F4" alt="Gemini API logo" title="Gemini API" height="25" />
+<img src="https://img.shields.io/badge/Gemini%20API-282C34?logo=google&logoColor=4285F4" alt="Gemini API logo" title="Gemini API" height="30" />
 </span>
 &nbsp;
 <span>
-<img src="https://img.shields.io/badge/OpenAI-282C34?logo=openai&logoColor=white" alt="OpenAI logo" title="OpenAI" height="25" />
+<img src="https://img.shields.io/badge/OpenAI-282C34?logo=openai&logoColor=white" alt="OpenAI logo" title="OpenAI" height="30" />
 </span>
 &nbsp;
 
