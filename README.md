@@ -59,24 +59,15 @@ Build applications with Node.js, Express, MongoDB, Socket.IO and Stripe. Use AI 
 ## GitHub Statistic
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=congbangitiu&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=79C0FF&amp;icon_color=56D364&amp;text_color=C9D1D9&amp;ring_color=56D364" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=congbangitiu&amp;show_icons=true&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;icon_color=1A7F37&amp;text_color=57606A&amp;ring_color=1A7F37" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=congbangitiu&amp;show_icons=true&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;icon_color=1A7F37&amp;text_color=57606A&amp;ring_color=1A7F37" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=congbangitiu&amp;hide_border=true&amp;background=0D1117&amp;ring=56D364&amp;fire=56D364&amp;currStreakNum=56D364&amp;sideNums=56D364&amp;currStreakLabel=79C0FF&amp;sideLabels=79C0FF&amp;dates=8B949E" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=congbangitiu&amp;hide_border=true&amp;background=FFFFFF&amp;ring=1A7F37&amp;fire=1A7F37&amp;currStreakNum=1A7F37&amp;sideNums=1A7F37&amp;currStreakLabel=0969DA&amp;sideLabels=0969DA&amp;dates=57606A" />
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=congbangitiu&amp;hide_border=true&amp;background=FFFFFF&amp;ring=1A7F37&amp;fire=1A7F37&amp;currStreakNum=1A7F37&amp;sideNums=1A7F37&amp;currStreakLabel=0969DA&amp;sideLabels=0969DA&amp;dates=57606A" alt="GitHub streak" />
-  </picture>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=congbangitiu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=79C0FF&icon_color=56D364&text_color=C9D1D9&ring_color=56D364#gh-dark-mode-only" alt="GitHub stats in dark mode" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=congbangitiu&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0969DA&icon_color=1A7F37&text_color=57606A&ring_color=1A7F37#gh-light-mode-only" alt="GitHub stats in light mode" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=congbangitiu&hide_border=true&background=0D1117&ring=56D364&fire=56D364&currStreakNum=56D364&sideNums=56D364&currStreakLabel=79C0FF&sideLabels=79C0FF&dates=8B949E#gh-dark-mode-only" alt="GitHub streak in dark mode" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=congbangitiu&hide_border=true&background=FFFFFF&ring=1A7F37&fire=1A7F37&currStreakNum=1A7F37&sideNums=1A7F37&currStreakLabel=0969DA&sideLabels=0969DA&dates=57606A#gh-light-mode-only" alt="GitHub streak in light mode" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=congbangitiu&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=79C0FF&amp;text_color=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=congbangitiu&amp;layout=compact&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;text_color=57606A" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congbangitiu&amp;layout=compact&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;text_color=57606A" alt="Most used programming languages" />
-  </picture>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congbangitiu&layout=compact&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9#gh-dark-mode-only" alt="Most used languages in dark mode" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congbangitiu&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=57606A#gh-light-mode-only" alt="Most used languages in light mode" />
 </div>
 
 ## Contact
