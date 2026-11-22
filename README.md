@@ -3,7 +3,7 @@
 
   <h1>Frontend Engineer</h1>
   <p>React.js | Next.js | TypeScript | Magento</p>
-  <p><a href="mailto:bangnguyen.071102@gmail.com"><strong>Let's connect</strong></a></p>
+  <p><a href="mailto:nlcbang.ityu@gmail.com"><strong>Let's connect</strong></a></p>
   <p><sub>International University | Vietnam National University Ho Chi Minh City</sub></p>
 </div>
 
@@ -24,48 +24,50 @@ Build applications with Node.js, Express, MongoDB, Socket.IO and Stripe. Use AI 
 
 **Frontend**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat&logo=typescript&logoColor=3178C6)
-![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat&logo=nextdotjs&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-18181B?style=flat&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-18181B?style=flat&logo=redux&logoColor=764ABC)
-![Vue.js](https://img.shields.io/badge/Vue.js-18181B?style=flat&logo=vuedotjs&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-18181B?style=flat&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-18181B?style=flat&logo=css3&logoColor=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-18181B?style=flat&logo=tailwindcss&logoColor=06B6D4)
-![Sass](https://img.shields.io/badge/Sass-18181B?style=flat&logo=sass&logoColor=CC6699)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-18181B?style=flat&logo=bootstrap&logoColor=7952B3)
+<img height="28" src="https://img.shields.io/badge/JavaScript-18181B?style=flat&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+<img height="28" src="https://img.shields.io/badge/TypeScript-18181B?style=flat&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
+<img height="28" src="https://img.shields.io/badge/Next.js-18181B?style=flat&amp;logo=nextdotjs&amp;logoColor=FFFFFF" alt="Next.js" />
+<img height="28" src="https://img.shields.io/badge/React-18181B?style=flat&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+<img height="28" src="https://img.shields.io/badge/Redux-18181B?style=flat&amp;logo=redux&amp;logoColor=764ABC" alt="Redux" />
+<img height="28" src="https://img.shields.io/badge/Vue.js-18181B?style=flat&amp;logo=vuedotjs&amp;logoColor=4FC08D" alt="Vue.js" />
+<img height="28" src="https://img.shields.io/badge/HTML5-18181B?style=flat&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5" />
+<img height="28" src="https://img.shields.io/badge/CSS3-18181B?style=flat&amp;logo=css3&amp;logoColor=1572B6" alt="CSS3" />
+<img height="28" src="https://img.shields.io/badge/Tailwind-18181B?style=flat&amp;logo=tailwindcss&amp;logoColor=06B6D4" alt="Tailwind CSS" />
+<img height="28" src="https://img.shields.io/badge/Sass-18181B?style=flat&amp;logo=sass&amp;logoColor=CC6699" alt="Sass" />
+<img height="28" src="https://img.shields.io/badge/Bootstrap-18181B?style=flat&amp;logo=bootstrap&amp;logoColor=7952B3" alt="Bootstrap" />
 
-**Backend & data**
+**Backend & Data**
 
-![Magento](https://img.shields.io/badge/Magento-18181B?style=flat&logo=magento&logoColor=EE672F)
-![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-18181B?style=flat&logo=express&logoColor=FFFFFF)
-![MySQL](https://img.shields.io/badge/MySQL-18181B?style=flat&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-18181B?style=flat&logo=mongodb&logoColor=47A248)
-![Firebase](https://img.shields.io/badge/Firebase-18181B?style=flat&logo=firebase&logoColor=FFCA28)
+<img height="28" src="https://img.shields.io/badge/Magento-18181B?style=flat&amp;logo=magento&amp;logoColor=EE672F" alt="Magento" />
+<img height="28" src="https://img.shields.io/badge/Node.js-18181B?style=flat&amp;logo=nodedotjs&amp;logoColor=5FA04E" alt="Node.js" />
+<img height="28" src="https://img.shields.io/badge/Express-18181B?style=flat&amp;logo=express&amp;logoColor=FFFFFF" alt="Express" />
+<img height="28" src="https://img.shields.io/badge/MySQL-18181B?style=flat&amp;logo=mysql&amp;logoColor=4479A1" alt="MySQL" />
+<img height="28" src="https://img.shields.io/badge/MongoDB-18181B?style=flat&amp;logo=mongodb&amp;logoColor=47A248" alt="MongoDB" />
+<img height="28" src="https://img.shields.io/badge/Firebase-18181B?style=flat&amp;logo=firebase&amp;logoColor=FFCA28" alt="Firebase" />
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-18181B?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat&logo=github&logoColor=FFFFFF)
-![GitLab](https://img.shields.io/badge/GitLab-18181B?style=flat&logo=gitlab&logoColor=FC6D26)
-![VS Code](https://img.shields.io/badge/VS%20Code-18181B?style=flat&logo=visualstudiocode&logoColor=007ACC)
-![ESLint](https://img.shields.io/badge/ESLint-18181B?style=flat&logo=eslint&logoColor=4B32C3)
-![Claude](https://img.shields.io/badge/Claude-18181B?style=flat&logo=claude&logoColor=D97757)
-![OpenAI](https://img.shields.io/badge/OpenAI-18181B?style=flat&logo=openai&logoColor=FFFFFF)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-18181B?style=flat&logo=googlegemini&logoColor=8E75B2)
+<img height="28" src="https://img.shields.io/badge/Git-18181B?style=flat&amp;logo=git&amp;logoColor=F05032" alt="Git" />
+<img height="28" src="https://img.shields.io/badge/GitHub-18181B?style=flat&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub" />
+<img height="28" src="https://img.shields.io/badge/GitLab-18181B?style=flat&amp;logo=gitlab&amp;logoColor=FC6D26" alt="GitLab" />
+<img height="28" src="https://img.shields.io/badge/VS%20Code-18181B?style=flat&amp;logo=visualstudiocode&amp;logoColor=007ACC" alt="VS Code" />
+<img height="28" src="https://img.shields.io/badge/ESLint-18181B?style=flat&amp;logo=eslint&amp;logoColor=4B32C3" alt="ESLint" />
+<img height="28" src="https://img.shields.io/badge/Claude-18181B?style=flat&amp;logo=claude&amp;logoColor=D97757" alt="Claude" />
+<img height="28" src="https://img.shields.io/badge/OpenAI-18181B?style=flat&amp;logo=openai&amp;logoColor=FFFFFF" alt="OpenAI" />
+<img height="28" src="https://img.shields.io/badge/Gemini%20API-18181B?style=flat&amp;logo=googlegemini&amp;logoColor=8E75B2" alt="Gemini API" />
 
 ## GitHub Statistic
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=congbangitiu&show_icons=true&hide_border=true&theme=transparent&title_color=79C0FF&icon_color=56D364&text_color=C9D1D9" alt="GitHub contribution stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=congbangitiu&hide_border=true&theme=transparent&ring=56D364&fire=56D364&currStreakNum=56D364&sideNums=56D364&currStreakLabel=79C0FF&sideLabels=79C0FF&dates=8B949E" alt="GitHub contribution streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=congbangitiu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=79C0FF&icon_color=56D364&text_color=C9D1D9&ring_color=56D364#gh-dark-mode-only" alt="GitHub stats in dark mode" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=congbangitiu&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0969DA&icon_color=1A7F37&text_color=57606A&ring_color=1A7F37#gh-light-mode-only" alt="GitHub stats in light mode" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=congbangitiu&hide_border=true&background=0D1117&ring=56D364&fire=56D364&currStreakNum=56D364&sideNums=56D364&currStreakLabel=79C0FF&sideLabels=79C0FF&dates=8B949E#gh-dark-mode-only" alt="GitHub streak in dark mode" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=congbangitiu&hide_border=true&background=FFFFFF&ring=1A7F37&fire=1A7F37&currStreakNum=1A7F37&sideNums=1A7F37&currStreakLabel=0969DA&sideLabels=0969DA&dates=57606A#gh-light-mode-only" alt="GitHub streak in light mode" />
 </div>
 
-
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congbangitiu&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9" alt="Most used programming languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congbangitiu&layout=compact&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9#gh-dark-mode-only" alt="Most used languages in dark mode" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congbangitiu&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=57606A#gh-light-mode-only" alt="Most used languages in light mode" />
 </div>
 
 ## Contact
